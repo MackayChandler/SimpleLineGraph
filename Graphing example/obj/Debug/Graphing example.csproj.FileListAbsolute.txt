@@ -1,0 +1,10 @@
+C:\Users\mackay4\source\repos\Graphing example\Graphing example\bin\Debug\Graphing example.exe.config
+C:\Users\mackay4\source\repos\Graphing example\Graphing example\bin\Debug\Graphing example.exe
+C:\Users\mackay4\source\repos\Graphing example\Graphing example\bin\Debug\Graphing example.pdb
+C:\Users\mackay4\source\repos\Graphing example\Graphing example\obj\Debug\Graphing example.csproj.AssemblyReference.cache
+C:\Users\mackay4\source\repos\Graphing example\Graphing example\obj\Debug\Graphing_example.Form1.resources
+C:\Users\mackay4\source\repos\Graphing example\Graphing example\obj\Debug\Graphing_example.Properties.Resources.resources
+C:\Users\mackay4\source\repos\Graphing example\Graphing example\obj\Debug\Graphing example.csproj.GenerateResource.cache
+C:\Users\mackay4\source\repos\Graphing example\Graphing example\obj\Debug\Graphing example.csproj.CoreCompileInputs.cache
+C:\Users\mackay4\source\repos\Graphing example\Graphing example\obj\Debug\Graphing example.exe
+C:\Users\mackay4\source\repos\Graphing example\Graphing example\obj\Debug\Graphing example.pdb
